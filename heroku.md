@@ -48,7 +48,7 @@ heroku git:remote sisackov-udemy-node-weatherapp(APP_NAME)
 git remote -v
 ```
 
-## push to heroku
+## push to git changes to heroku
 
 ```
 git push heroku main
